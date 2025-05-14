@@ -134,18 +134,6 @@
   --color-sidebar-ring: var(--sidebar-ring);
 }
 
-*{
-  user-select: none
-}
-
-::-webkit-scrollbar{
-  display: none
-}
-
-::-webkit-scrollbar-track{
-  width: 0;
-}
-
 @layer base {
   * {
     @apply border-border outline-ring/50;
