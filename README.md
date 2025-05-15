@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🤖 **SensAI - Mock Interviews**
 
-## Getting Started
+**AI-Powered Interview Practice Platform**
 
-First, run the development server:
+SensAI is a powerful AI-driven platform designed to revolutionize job interview preparation. Built using Next.js, Firebase, Tailwind CSS, and Vapi AI voice agents, SensAI offers an immersive mock interview experience with real-time feedback, a beautiful UI, and seamless integration of AI technologies like Google Gemini. Whether you're a beginner or an advanced developer, SensAI helps you learn how to integrate cutting-edge AI into your applications—while also preparing you for your next big opportunity.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+___________________________________________________________________________________________________________________________________
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+⚙️ **Tech Stack**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+_**Next.js**_ – Frontend & backend logic
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+_**Firebase**_ – Authentication and real-time data storage
 
-## Learn More
+_**Tailwind CSS**_ – Utility-first styling
 
-To learn more about Next.js, take a look at the following resources:
+_**Vapi AI**_ – Voice-powered conversational AI agents
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+_**shadcn/ui**_ – Reusable and accessible UI components
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+_**Google Gemini**_ – For AI feedback and conversational intelligence
 
-## Deploy on Vercel
+_**Zod**_ – Schema validation for type safety
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+____________________________________________________________________________________________________________________________________
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🔋 **Features**
+
+
+🔐 _**Authentication**_
+Sign up or sign in using secure email/password authentication powered by Firebase.
+
+🧠 _**Create Interviews**_
+Generate mock job interviews using conversational AI, powered by Vapi voice agents and Gemini.
+
+💬 _**AI-Powered Feedback**_
+Receive instant, personalized feedback on your answers with suggestions for improvement.
+
+🎤 _**Voice-Driven Conversations**_
+Engage in interactive interviews with Vapi voice agents for a more realistic interview experience.
+
+📄 _**Interview Transcripts**_
+Detailed interview transcripts and AI annotations provided post-interview for review and learning.
+
+📊 _**Dashboard**_
+Access and manage all your past interviews from a user-friendly and organized dashboard.
+
+💻 _**Modern UI/UX**_
+Clean, responsive interface built with TailwindCSS and shadcn/ui for a seamless experience across all devices.
+
+🔁 _**Scalable Architecture**_
+Built with a modular codebase emphasizing reusability, performance, and scalability.
